@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: normal;
 	font-weight: 400;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-Regular.ttf),
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: italic;
 	font-weight: 400;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-Italic.ttf),
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: normal;
 	font-weight: 500;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-Medium.ttf),
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: italic;
 	font-weight: 500;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-MediumItalic.ttf),
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: normal;
 	font-weight: 700;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-Bold.ttf),
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Text';
+	font-family: 'Adwaita';
 	font-style: italic;
 	font-weight: 700;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatText-BoldItalic.ttf),
@@ -47,7 +47,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Display';
+	font-family: 'Adwaita';
 	font-style: normal;
 	font-weight: 400;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatDisplay-Regular.ttf),
@@ -55,7 +55,7 @@
 }
 
 @font-face {
-	font-family: 'Red Hat Display';
+	font-family: 'Adwaita';
 	font-style: normal;
 	font-weight: 700;
 	src: url(chrome-extension://__MSG_@@extension_id__/fonts/RedHatDisplay-Bold.ttf),
@@ -78,7 +78,7 @@
 }
 
 html {
-	font-family: 'Red Hat Text', sans-serif !important;
+	font-family: 'Adwaita', sans-serif !important;
 	--primaryColor: #9fc0a2 !important;
 	--primaryColorRGB: 159, 192, 162 !important;
 	--backgroundColor: #272a2c !important;
@@ -282,7 +282,7 @@ rm6 .message::before,
 /* General */
 
 body {
-	font-family: 'Red Hat Text', sans-serif !important;
+	font-family: 'Adwaita, sans-serif !important;
 	background: var(--backgroundColor) !important;
 }
 
@@ -299,7 +299,7 @@ h4,
 .mini-game__clock,
 .btn-rack__btn i,
 .btn-rack form i {
-	font-family: 'Red Hat Display', sans-serif !important;
+	font-family: 'Adwaita , sans-serif !important;
 }
 
 p {
@@ -332,7 +332,7 @@ bad {
 }
 
 .button {
-	font-family: 'Red Hat Text', sans-serif !important;
+	font-family: 'Adwaita , sans-serif !important;
 	font-weight: 500 !important;
 	background: var(--primaryColor) !important;
 	color: var(--backgroundColor) !important;
